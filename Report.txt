@@ -1,0 +1,6 @@
+Protocols observed:
+- HTTP: Web communication between browser and server.
+- DNS: Domain name resolution for visited websites.
+- TCP: Underlying transport protocol for HTTP traffic.
+
+This task helped me understand packet structure, filtering by protocol, and how Wireshark can assist in troubleshooting.
